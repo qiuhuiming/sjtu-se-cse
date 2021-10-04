@@ -1,0 +1,5 @@
+*.o
+*.d
+chfs_client
+part1_tester
+.vscode
