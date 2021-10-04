@@ -1,0 +1,1 @@
+docker run -it --rm --privileged --cap-add=ALL -v `pwd`:/home/stu/cse-lab shenjiahuan/cselab_env:1.0 /bin/bash
